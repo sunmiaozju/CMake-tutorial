@@ -1,0 +1,3 @@
+/home/sunm/work/code/cmake-learn/t1/build/CMakeFiles/edit_cache.dir
+/home/sunm/work/code/cmake-learn/t1/build/CMakeFiles/rebuild_cache.dir
+/home/sunm/work/code/cmake-learn/t1/build/CMakeFiles/hello.dir

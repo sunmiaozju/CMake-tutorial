@@ -1,0 +1,7 @@
+/home/sunm/work/code/cmake-learn/t4/build/CMakeFiles/test.dir
+/home/sunm/work/code/cmake-learn/t4/build/CMakeFiles/edit_cache.dir
+/home/sunm/work/code/cmake-learn/t4/build/CMakeFiles/rebuild_cache.dir
+/home/sunm/work/code/cmake-learn/t4/build/src/CMakeFiles/test.dir
+/home/sunm/work/code/cmake-learn/t4/build/src/CMakeFiles/rebuild_cache.dir
+/home/sunm/work/code/cmake-learn/t4/build/src/CMakeFiles/edit_cache.dir
+/home/sunm/work/code/cmake-learn/t4/build/src/CMakeFiles/main.dir

@@ -1,0 +1,19 @@
+Start testing: May 13 20:04 CST
+----------------------------------------------------------
+1/1 Testing: mytest
+1/1 Test: mytest
+Command: "/home/sunm/work/code/cmake-learn/t4/build/src/main"
+Directory: /home/sunm/work/code/cmake-learn/t4/build
+"mytest" start time: May 13 20:04 CST
+Output:
+----------------------------------------------------------
+Hello World
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"mytest" end time: May 13 20:04 CST
+"mytest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 13 20:04 CST
